@@ -1,5 +1,8 @@
+body{
+    min-height: 100vh;
+}
 #background{
-    background-image: url(./assets/10868599.jpg);
+    background-image: url(./assets/14490.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
