@@ -64,6 +64,30 @@ const quotes = [
     {
         bibleChapter: "Joshua 1:9",
         verse: "Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."
+    },
+    {
+        bibleChapter: "Isaiah 41:10",
+        verse: "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+    },
+    {
+        bibleChapter: "1 Peter 5:7",
+        verse: "Cast all your anxiety on him because he cares for you."
+    },
+    {
+        bibleChapter: "Psalm 119:105",
+        verse: "Your word is a lamp for my feet, a light on my path."
+    },
+    {
+        bibleChapter: "2 Corinthians 5:7",
+        verse: "For we live by faith, not by sight."
+    },
+    {
+        bibleChapter: "Matthew 11:28-30",
+        verse: "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
+    },
+    {
+        bibleChapter: "Galatians 5:22-23",
+        verse: "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."
     }
 ]
 
@@ -130,4 +154,4 @@ newquote.addEventListener('click', () => {
     background.style.backgroundImage = newbackground[randomBackground].img
 })
 console.log(quotes.length)
-console.log(newbackgroundewbackground.length)
+console.log(newbackground.length)
