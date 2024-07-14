@@ -1,7 +1,7 @@
-// const background = document.getElementById("#background")
+const backgrounds = document.getElementById("#background")
 let btn = document.getElementById('#newquote');
 let bibleChapter = document.getElementById('#chapter');
-let verse = document.getElementById('#verse');
+let verse = document.getElementById('#bibleverse');
 
 
 const quotes = [
@@ -24,6 +24,10 @@ const quotes = [
     {
         bibleChapter: "Romans 8:28",
         verse: "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+    },
+    {
+        bibleChapter: "Proverbs 3:5-6",
+        verse: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
     },
     {
         bibleChapter: "Psalm 23:1",
@@ -63,9 +67,67 @@ const quotes = [
     }
 ]
 
+let newbackground = [
+    {
+        img: "url(assets/14490.jpg)"
+    },
+    {
+       img: "url(assets/826953.jpg)"
+    },
+    {
+        img: "url(assets/999948.jpg)"
+    },
+    {
+        img: "url(assets/5477484.jpg)"
+    },
+    {
+       img: "url(assets/10868592.jpg)"
+    },
+    {
+        img: "url(assets/10868596.jpg)"
+    },
+    {
+        img: "url(assets/10868598.jpg)"
+    },
+    {
+        img: "url(assets/10868599.jpg)"
+    },
+    {
+        img: "url(assets/10868601.jpg)"
+    },
+    {
+        img: "url(assets/10868606.jpg)"
+    },
+    {
+        img: "url(assets/10868617.jpg)"
+    },
+    {
+        img: "url(assets/10868621.jpg)"
+    },
+    {
+        img: "url(assets/10868672.jpg)"
+    },
+    {
+        img: "url(assets/10868735.jpg)"
+    },
+    {
+        img: "url(assets/10868764.png)"
+    },
+    {
+        img: "url(assets/10880172.jpg)"
+    },
+    {
+        img: "url(assets/10880383.jpg)"
+    },
+
+]
+
 newquote.addEventListener('click', () => {
     let random = Math.floor(Math.random() * quotes.length);
-    bibleChapter.textContent = quotes[random].chapter
-    verse.textContent = quotes[random].verse
+    chapter.textContent = quotes[random].bibleChapter
+    bibleverse.textContent = quotes[random].verse
+    let randomBackground = Math.floor(Math.random() * newbackground.length);
+    background.style.backgroundImage = newbackground[randomBackground].img
 })
 console.log(quotes.length)
+console.log(newbackgroundewbackground.length)
