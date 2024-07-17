@@ -90,7 +90,7 @@ const quotes = [
         newQuote: "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law."
     },
     {
-        newBooks: "Romans 8:37";
+        newBooks: "Romans 8:37",
         newQuote: "No, in all these things we are more than conquerors through him who loved us."      
     }
 ]
