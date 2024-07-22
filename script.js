@@ -92,6 +92,10 @@ const quotes = [
     {
         newBooks: "Romans 8:37",
         newQuote: "No, in all these things we are more than conquerors through him who loved us."      
+    },
+    {
+        newBooks: "Isaiah 40:31",
+        newQuote: "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
     }
 ]
 
