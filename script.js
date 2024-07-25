@@ -96,6 +96,10 @@ const quotes = [
     {
         newBooks: "Isaiah 40:31",
         newQuote: "But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint."
+    },
+    {
+        newBooks: "2 Corinthians 2:14",
+        newQuote: "But thanks be to God, who always leads us as captives in Christ’s triumphal procession and uses us to spread the aroma of the knowledge of him everywhere."
     }
 ]
 
