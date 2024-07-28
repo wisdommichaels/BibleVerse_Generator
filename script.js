@@ -100,6 +100,10 @@ const quotes = [
     {
         newBooks: "2 Corinthians 2:14",
         newQuote: "But thanks be to God, who always leads us as captives in Christ’s triumphal procession and uses us to spread the aroma of the knowledge of him everywhere."
+    },
+    {
+        newBooks: "Hebrews 2:13",
+        newQuote: "And again, 'I will put my trust in him.' And again he says, 'Here am I, and the children God has given me."
     }
 ]
 
