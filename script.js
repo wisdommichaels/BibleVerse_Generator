@@ -107,7 +107,11 @@ const quotes = [
     },
     {
         newBooks: "Proverbs 3:5-6",
-    	    newQuote: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+    	newQuote: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
+    },
+    {
+        newBooks: "Revelation 21:7",
+        newQuote:"Those who are victorious will inherit all this, and I will be their God and they will be my children."
     }
 ]
 
