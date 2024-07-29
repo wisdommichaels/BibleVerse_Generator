@@ -104,6 +104,10 @@ const quotes = [
     {
         newBooks: "Hebrews 2:13",
         newQuote: "And again, 'I will put my trust in him.' And again he says, 'Here am I, and the children God has given me."
+    },
+    {
+        newBooks: "Proverbs 3:5-6",
+    	    newQuote: "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
     }
 ]
 
