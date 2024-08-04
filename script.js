@@ -112,6 +112,10 @@ const quotes = [
     {
         newBooks: "Revelation 21:7",
         newQuote:"Those who are victorious will inherit all this, and I will be their God and they will be my children."
+    },
+    {
+        newBooks: "Matthew 16:27",
+        newQuote: "For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what they have done."
     }
 ]
 
