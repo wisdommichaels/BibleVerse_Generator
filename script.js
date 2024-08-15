@@ -116,6 +116,10 @@ const quotes = [
     {
         newBooks: "Matthew 16:27",
         newQuote: "For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what they have done."
+    },
+    {
+        newBooks: "Matthew 16:27",
+        newQuote: "For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what they have done."
     }
 ]
 
