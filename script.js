@@ -131,6 +131,9 @@ let newBackground = [
        img: "url(assets/826953.jpg)"
     },
     {
+       img: "url(assets/826953.jpg)"
+    },
+    {
         img: "url(assets/999948.jpg)"
     },
     {
